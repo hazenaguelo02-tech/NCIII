@@ -60,7 +60,7 @@ async function fetchProducts() {
 
 // 4. Remove form Cart
 
-onMounted(() => {fetchProducts} 
+onMounted(() => {fetchProducts()} 
 );
 
 </script>
